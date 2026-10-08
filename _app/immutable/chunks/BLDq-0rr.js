@@ -1,0 +1,1 @@
+import"./DNqqoakd.js";import{s,r as a}from"./_yCqzfUL.js";import{I as p}from"./DUjThrVY.js";var n=new Set(["$$slots","$$events","$$legacy"]);function h(e,r){let t=a(r,n);const o=[["path",{d:"M8 2v3"}],["path",{d:"M16 2v3"}],["rect",{x:"3",y:"3",width:"18",height:"18",rx:"2"}],["path",{d:"M3 9h18"}]];p(e,s({name:"calendar"},()=>t,{get iconNode(){return o}}))}export{h as C};

@@ -1,0 +1,1 @@
+export const env={PUBLIC_CONTACT_ENDPOINT:"https://contact.aboudrar.dev/api/contact"}
